@@ -1,0 +1,2 @@
+01.What is scaling
+02.Client-Server Architecture
