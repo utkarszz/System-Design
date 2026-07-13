@@ -8,5 +8,7 @@
   06.2.Distributing traffic via load balancer
   06.3.Addressing Db challenges
   06.4.Caching Layer
+07.Indexing-in-database
+
 
 
