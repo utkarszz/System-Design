@@ -3,3 +3,10 @@
 03.Load-Balancing
 04.Caching
 05.Databases
+06.Creating-Diagrams
+  06.1.Adding-a-database-layer
+  06.2.Distributing traffic via load balancer
+  06.3.Addressing Db challenges
+  06.4.Caching Layer
+
+
