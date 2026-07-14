@@ -10,6 +10,7 @@
   06.4.Caching Layer
 07.Indexing-in-database
 08.Proxy
+09.Message Queue and CDN
 
 
 
