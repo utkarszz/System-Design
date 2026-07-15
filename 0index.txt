@@ -11,6 +11,7 @@
 07.Indexing-in-database
 08.Proxy
 09.Message Queue and CDN
+10.CAP Theorem and use cases
 
 
 
